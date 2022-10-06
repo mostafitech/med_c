@@ -12,7 +12,8 @@ const Navbar = () => {
             <div className="container flex flex-wrap justify-between items-center mx-auto">
                <Link href="/" className="flex items-center cursor-pointer">
                       <li className='text-gray-800 font-semi-bold text-3xl pb-4 mt-3 flex w-10 h-10 ml-20 '>
-                      <span className='font-semi-bold  flex'>Media</span><span className='text-blue-600 font-bold  tracking-widest'>Caris</span></li>
+                      <span className='font-semi-bold  flex'>Media</span><span className='text-blue-600 font-bold  tracking-widest
+                      '>Caris</span></li>
                      
                   </Link>
             
